@@ -1,0 +1,9 @@
+support\Support.class
+automation\AppTest.class
+runner\RunCucumberTest.class
+steps\ClientPageSteps.class
+pages\HomePage.class
+pages\RegisterPage.class
+steps\RegisterNewUserSteps.class
+pages\ClientPage.class
+steps\HomePageSteps.class
