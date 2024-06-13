@@ -1,7 +1,0 @@
-Comando para rodar os testes no cmd.
-
-mvn test -Dtest=RunCucumberTest -Dbrowser=firefox
-
-
-referencia para usar CSS ou Xpath
-https://www.linkedin.com/pulse/xpath-vs-css-selector-jonatas-martins-faria/?originalSubdomain=pt
